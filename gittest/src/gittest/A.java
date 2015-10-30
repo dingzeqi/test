@@ -7,5 +7,7 @@ public class A {
 		
 		
 		System.out.println("123123123");
+		
+		System.out.println("123123123");
 	}
 }
